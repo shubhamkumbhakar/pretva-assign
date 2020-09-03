@@ -1,0 +1,22 @@
+table{
+    margin: auto;
+    
+    width: 60%;
+    font-size: 13px;
+    color: white;
+}
+.table-container{
+    padding: 20px;
+    margin: auto;
+    text-align: left;
+}
+
+.footer{
+    
+    width: 100%;
+}
+
+#copyright{
+    color: white;
+    background-color: white;
+}

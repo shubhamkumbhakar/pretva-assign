@@ -1,0 +1,78 @@
+.flex-container{
+    border: 2px solid black;
+    width: 96%;
+    margin: auto;
+    display: grid;
+    grid-template-rows: 320px;
+    grid-template-columns: 1fr, 1fr;
+}
+
+#graphic{
+    
+    
+    width: 80%;
+    
+}
+
+#div1{
+    
+    padding: 45px;
+    
+}
+
+#logincard{
+    border-radius: 13px;
+    width: 55%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid rgb(207, 167, 167);
+}
+
+#inputEmail{
+    background-image: url('../Images/image2.png');
+    position: left;
+    padding-left: 47px;
+    background-size: 42px;
+    background-repeat: no-repeat;
+}
+
+#inputPassword{
+    background-image: url('../Images/image3.png');
+    position: left;
+    padding-left: 47px;
+    background-size: 42px;
+    background-repeat: no-repeat;
+}
+
+.register-form{
+    background-image: url('../Images/image4.png');
+    position: left;
+    
+    background-size: 15px;
+    background-repeat: no-repeat;
+}
+
+.column {
+    float: left;
+    width: 45%;
+    padding-left: 15px;
+  }
+  
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+  @media screen and (max-width: 1024px) {
+    .column {
+      width: 100%;
+    }
+    #logincard{
+        width: 100%;
+    }
+}
+
+
