@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pretva-assign/static/css/main.221bd6bf.chunk.css",
+    "main.js": "/pretva-assign/static/js/main.9b3bf374.chunk.js",
+    "main.js.map": "/pretva-assign/static/js/main.9b3bf374.chunk.js.map",
+    "runtime-main.js": "/pretva-assign/static/js/runtime-main.92f9e51f.js",
+    "runtime-main.js.map": "/pretva-assign/static/js/runtime-main.92f9e51f.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/pretva-assign/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.dc3580c5.chunk.js": "/pretva-assign/static/js/2.dc3580c5.chunk.js",
+    "static/js/2.dc3580c5.chunk.js.map": "/pretva-assign/static/js/2.dc3580c5.chunk.js.map",
+    "index.html": "/pretva-assign/index.html",
+    "precache-manifest.8ae3a3253aec583cf0dd5c4dda3c2d5f.js": "/pretva-assign/precache-manifest.8ae3a3253aec583cf0dd5c4dda3c2d5f.js",
+    "service-worker.js": "/pretva-assign/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/pretva-assign/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.221bd6bf.chunk.css.map": "/pretva-assign/static/css/main.221bd6bf.chunk.css.map",
+    "static/js/2.dc3580c5.chunk.js.LICENSE.txt": "/pretva-assign/static/js/2.dc3580c5.chunk.js.LICENSE.txt",
+    "static/media/Image1.png": "/pretva-assign/static/media/Image1.de0d46d9.png",
+    "static/media/StyleAll.css": "/pretva-assign/static/media/image3.d3e0c1d0.png",
+    "static/media/logo.png": "/pretva-assign/static/media/logo.df14962d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92f9e51f.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.dc3580c5.chunk.js",
+    "static/css/main.221bd6bf.chunk.css",
+    "static/js/main.9b3bf374.chunk.js"
+  ]
+}
